@@ -6,6 +6,13 @@ The cad model can be found on makerworld here: https://makerworld.com/en/models/
 <img width="787" height="575" alt="image" src="https://github.com/user-attachments/assets/ade7a6b3-08c7-41e1-90d7-88a9260ea0bb" />
 
 # BOM
-1. Bambu Lab Mouse Kit 002 - 1pc - $10.40 
-2. Filament - ~40g - ~$0.70
-3. AA battery - 1pc - ~$5.00
+| Item number | Description | Quantity | Price |
+| --- | --- | --- | --- |
+| 1 | Bambu Lab Mouse Kit 002 | 1 | $10.40 |
+| 2 | Filament | ~40g | ~$0.70 |
+| 3 | AA Battery | 1 | ~$5.00 |
+
+
+
+
+
