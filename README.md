@@ -5,3 +5,7 @@ I made it because it is cool to make and design your own mouse, and you can cust
 The cad model can be found on makerworld here: https://makerworld.com/en/models/3549803-bambu-lab-mouse-kit-002-cover-design-untested
 <img width="787" height="575" alt="image" src="https://github.com/user-attachments/assets/ade7a6b3-08c7-41e1-90d7-88a9260ea0bb" />
 
+# BOM
+1. Bambu Lab Mouse Kit 002 - 1pc - $10.40 
+2. Filament - ~40g - ~$0.70
+3. AA battery - 1pc - ~$5.00
