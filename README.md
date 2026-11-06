@@ -13,6 +13,7 @@ The cad model can be found on makerworld here: https://makerworld.com/en/models/
 | 3 | AA Battery | 1 | ~$5.00 |
 
 
-
+Note to reviewer:
+Thanks for being patient with me, sorry I didn't have my repo complete, i'm new to this.
 
 
